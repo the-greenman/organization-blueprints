@@ -1,5 +1,5 @@
 
-
+#The 6 Dynamics
 
 ## 1: Direction
 
