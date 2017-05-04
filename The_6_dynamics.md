@@ -1,5 +1,10 @@
 
-## The 6 Dynamics
+## The 6 Power Dynamics
+
+*The six dynamics are a model of primary types of power within an organization. A high functioning, next-stage organization needs to be capable in all these areas. The purpose of the blueprints is to identify key concepts and practices that develop organizational capabilities, creating workplaces that better harness the unique, diverse skills of their members.*
+
+The six types of power are based on the first six stages of Spiral Dynamics. Each of the levels is equally important.
+
 
 ### 1: Direction
 
