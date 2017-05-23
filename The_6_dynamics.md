@@ -13,7 +13,7 @@ The power of direction allows a group to focus their energy. It defines what kin
 #### Concepts
 * Working with questions
 * Problem definition
-* 
+* Clear personal motivations
 
 #### Practices
 * User stories
@@ -48,6 +48,9 @@ The means of production and resource allocation defines what kinds of work is po
 * Knowledge sharing
 
 #### Practices
+* Action research
+* Journalling
+* Atomic Design
 
 
 ### 4: Process
@@ -60,17 +63,19 @@ How work is actually undertaken through process, control and regulation. When pr
 
 #### Practices 
 * advice process
-* Holacracy meeting types
+* circles & Governance meetings
 
 ### 5: Authority
 How authority is exercised and how decisions can be overruled defines an organisation’s ability to adapt to new situations. When data and evidence can override seniority, new ideas can take root. 
 
 #### Concepts
+* Conflict resolution
 * Test and See
 
 #### Practices
+* Socratic questions
 * The circle way
-* Holacracy roles 
+* Distributed authority Roles
 
 ### 6: Trust
 
@@ -79,7 +84,6 @@ Trust powers the emotional structure of an organization. Trust and the emotional
 #### Concepts
 * difficult conversation techniques
  
-
 #### Practices
 * Peer contracts
 * non-violent communication
